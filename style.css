@@ -9,7 +9,7 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-    max-height: fit-content;
+/*     max-height: fit-content; */
 }
 body{
     background-color:var(--black);
